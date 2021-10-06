@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Alivcor</string>
+    <string name="name">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="submit">Submit</string>
+    <string name="dob">Date of birth</string>
+    <string name="error_dob">Enter date of birth</string>
+    <string name="fname">Enter first name</string>
+    <string name="lname">Enter last name</string>
+
+</resources>
